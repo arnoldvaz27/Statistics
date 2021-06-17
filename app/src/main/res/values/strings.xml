@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Statistics</string>
+    <string name="none">None</string>
+    <string name="normal_close">Normal Close</string>
+    <string name="force_close">Force Close</string>
+    <string name="app_statistics">App Statistics:</string>
+    <string name="app_open">App Open</string>
+    <string name="force_app_closing">Force App Closing</string>
+    <string name="normal_app_closing">Normal App Closing</string>
+    <string name="_0">0</string>
+</resources>
