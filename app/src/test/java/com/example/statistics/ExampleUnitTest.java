@@ -1,4 +1,4 @@
-package com.example.differentandroidcodes;
+package com.example.statistics;
 
 import org.junit.Test;
 
